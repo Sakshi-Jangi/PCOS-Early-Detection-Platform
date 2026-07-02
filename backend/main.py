@@ -14,7 +14,7 @@ from routes.dashboard import router as dashboard_router
 from routes.analytics import router as analytics_router
 
 # Create all database tables
-# models.Base.metadata.create_all(bind=engine)
+models.Base.metadata.create_all(bind=engine)
 
 app = FastAPI(
     title="PCOS Early Detection Platform",
