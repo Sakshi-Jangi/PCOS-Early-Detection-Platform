@@ -103,13 +103,9 @@ Frontend runs at:
 http://localhost:5173
 ```
 
----
 
-## 📸 Screenshots
 
-_Add screenshots of Login, Dashboard, Prediction, and Analytics here._
 
----
 
 ## 👩‍💻 Developer
 
